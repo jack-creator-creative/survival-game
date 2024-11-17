@@ -1,0 +1,36 @@
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #282c34;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #444;
+    padding: 20px 0;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5rem;
+}
+
+main {
+    margin: 20px auto;
+}
+
+canvas {
+    display: block;
+    margin: 20px auto;
+    background-color: #000;
+    border: 2px solid #fff;
+}
+
+footer {
+    margin-top: 20px;
+    font-size: 0.9rem;
+    color: #aaa;
+}
